@@ -30,8 +30,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,7 +44,7 @@
               "RelativeDocumentMoniker": "MovieAPI\\Controllers\\MovieController.cs",
               "ToolTip": "D:\\VisualStudio_DotNet\\MovieAPI\\MovieAPI\\Controllers\\MovieController.cs",
               "RelativeToolTip": "MovieAPI\\Controllers\\MovieController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-26T04:42:22.651Z",
               "EditorCaption": ""
@@ -55,8 +59,7 @@
               "RelativeToolTip": "MovieAPI\\Migrations\\20250126044122_moviemig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T04:41:50.011Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T04:41:50.011Z"
             },
             {
               "$type": "Document",
@@ -68,8 +71,7 @@
               "RelativeToolTip": "MovieAPI\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T04:35:17.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T04:35:17.972Z"
             },
             {
               "$type": "Document",
@@ -81,8 +83,7 @@
               "RelativeToolTip": "MovieAPI\\MovieContext\\MoviDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T04:34:09.763Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T04:34:09.763Z"
             },
             {
               "$type": "Document",
@@ -94,8 +95,7 @@
               "RelativeToolTip": "MovieAPI\\Models\\Movie.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-26T04:30:14.093Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-26T04:30:14.093Z"
             }
           ]
         }
